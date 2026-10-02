@@ -18,12 +18,9 @@ and exploring AI-powered solutions.
 
 ### 🚀 Projects
 
-- **FitHive** — A fitness platform designed to help users
-  track their fitness goals and progress.
-- **Netflix Clone** — A responsive web application built
-  to practice frontend development.
-- **JavaScript Projects** — Small projects built while
-  learning and improving my JavaScript skills.
+Currently building and uploading projects to GitHub.
+
+More projects coming soon!
 
 ### 🌱 Currently Learning
 
