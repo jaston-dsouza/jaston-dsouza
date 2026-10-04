@@ -32,7 +32,7 @@ More projects coming soon!
 ### 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/jaston-dsouza-b-3070a2438)
-- [Portfolio](https://inspired-focus-page.lovable.app/)
+- [Portfolio](https://screenshot-perfect-pixels-795.lovable.app/)
 
 ---
 
