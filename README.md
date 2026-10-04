@@ -31,7 +31,7 @@ More projects coming soon!
 
 ### 🔗 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/jaston-dsouza-b-3070a2438)
+- [LinkedIn](https://www.linkedin.com/in/jaston-dsouza-b-3070a2438/)
 - [Portfolio](https://screenshot-perfect-pixels-795.lovable.app/)
 
 ---
